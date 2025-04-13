@@ -78,4 +78,4 @@ This project is licensed under the [MIT License](LICENSE).  Feel free to use, mo
 
 **🙏 Credits:**
 
-This project was inspired and guided by the excellent tutorials from **Data with Baraa**. Thank you for the invaluable learning resource!
+This project was inspired and guided by the excellent tutorials from [Data with Baraa](https://www.youtube.com/@DataWithBaraa). Thank you for the invaluable learning resource!
